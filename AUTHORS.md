@@ -1,8 +1,4 @@
 # Credits
 
-## Development Lead
-
-- Natalicio Nascimento <francisco.nascimento@cakeerp.com>
-
-## Contributors
+## Developer
 giovanigB <giovanigrazziotin72@gmail.com>
